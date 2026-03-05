@@ -1,5 +1,6 @@
 ## Hi there 👋
- 目前就讀長榮大學-航管系
+
+🔭 目前就讀長榮大學-航管系
 🤝 養了一隻貓，叫卡卡
 🌱 最想去紐西蘭遊玩
 💬 星座射手座
@@ -8,6 +9,7 @@
 📝 無時無刻都想要睡覺
 📄 喜歡蒐集毛茸茸的公仔
 ⚡ 興趣是拍照、看電影
+-->
 <!--
 **114b05962-cloud/114b05962-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
